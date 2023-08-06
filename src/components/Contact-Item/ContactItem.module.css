@@ -1,0 +1,55 @@
+.contactName {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.contactNumber {
+    color: rgb(121, 120, 120);
+    font-size: 19px;
+    font-weight: normal;
+}
+
+.contactsItem {
+    text-align: start;
+    padding-bottom: 20px;
+    height: 40px;
+    border-bottom: 1px solid grey;
+}
+
+.contactDelete {
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 10px 20px;
+    border-radius: 6px;
+    border: 1px solid black;
+    box-shadow: 0 0 40px 40px #a4a4a4 inset, 0 0 0 0 #ff8282;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: white;
+    transition: .15s ease-in-out;
+  }
+  .contactDelete:hover {
+    box-shadow: 0 0 10px 0 #fc9aa7 inset, 0 0 10px 4px #f68b8b;
+    color: #ff0000;
+  }
+
+  .changeDelete {
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 10px 20px;
+    border-radius: 6px;
+    border: 1px solid black;
+    box-shadow: 0 0 40px 40px #b4b4b4 inset, 0 0 0 0 #f4d151;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: white;
+    transition: .15s ease-in-out;
+  }
+  .changeDelete:hover {
+    box-shadow: 0 0 10px 0 #f7fc9a inset, 0 0 10px 4px #f8e267;
+    color: #fbb319;
+  }
