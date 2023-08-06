@@ -1,0 +1,45 @@
+.searchForm {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.loader {
+    margin-left: 720px;
+    margin-top: 100px;
+}
+
+
+.apiError {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+    font-weight: lighter;
+    color: grey;
+}
+
+.errorName {
+    color: rgb(193, 145, 145);
+    font-weight: bold;
+}
+
+.title {
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Satisfy', cursive;
+    font-size: 40px;
+    margin-left: 70px;
+    margin-top: 50px;
+    color: rgb(95, 95, 95);
+}
+
+.greyO {
+
+color: rgb(232, 0, 62) 
+}
+
+.blueO {
+    color: rgb(242, 0, 52);
+}

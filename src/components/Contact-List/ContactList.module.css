@@ -1,0 +1,13 @@
+.contactList {
+    padding: 30px;
+    list-style: none;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: rgb(230, 230, 230);
+    box-shadow: 7px 6px 12px -5px rgba(0,0,0,0.61);
+}
+
+.contactTitle {
+    font-weight:lighter;
+    font-size: 30px;
+}
